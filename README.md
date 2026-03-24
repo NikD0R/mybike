@@ -20,7 +20,6 @@ MyBike is a responsive website for showcasing bicycles and cycling accessories. 
 The project was built using:
   - HTML5
   - SCSS (Sass)
-  - JavaScript (ES6+)
   - Gulp
   - Stylelint
   - Responsive Web Design (Flexbox / Grid)
